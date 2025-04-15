@@ -44,4 +44,37 @@ Aplicativo de gerenciamento de tarefas desenvolvido em **Flutter**, utilizando *
 
 ---
 
+## 🔧 Tecnologias Utilizadas
+
+- [Flutter](https://flutter.dev)
+- [Firebase Authentication](https://firebase.google.com/products/auth)
+- [Cloud Firestore](https://firebase.google.com/products/firestore)
+- [GetX](https://pub.dev/packages/get)
+
+---
+
+## 🗓️ Entrega
+
+### 📅 Prazo
+- **Início:** 16/04/2025  
+- **Entrega até:** 21/04/2025 (5 dias corridos)
+
+### 📬 Como enviar
+1. Suba o código em um repositório **público no GitHub**
+2. Envie o **link do repositório via WhatsApp**
+3. Faça o **upload de um vídeo** mostrando o app funcionando (pode ser no próprio GitHub ou por link externo como Google Drive, YouTube ou similar)
+
+---
+
+## 📱 Demonstração
+
+Um vídeo demonstrativo do funcionamento do app deve ser incluído conforme orientações de entrega.
+
+---
+
+## 🤝 Contato
+
+Em caso de dúvidas, entre em contato pelo WhatsApp!
+
+---
 
